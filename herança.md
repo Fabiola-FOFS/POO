@@ -46,3 +46,10 @@ ex: upcast
 ex: downcast
 `java e C#`B a = (B) new A(); // não é muito útil 
 *** não posso usar downcast em Poo ***
+
+
+Para agilizar o processo de desenvolvimento compartilhando as características de uma classe existente com uma nova, você aplicaria o mecanismo de **Herança** da Programação Orientada a Objetos (POO). 
+
+A **Herança** permite que uma nova classe (subclasse) herde atributos e métodos de uma classe existente (superclasse), promovendo reutilização de código e facilitando a manutenção e extensão das funcionalidades.
+
+Se precisar de mais alguma coisa, estou por aqui para ajudar.

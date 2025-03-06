@@ -8,7 +8,8 @@ a MESMA ação se comportando diferente
 O **polimorfismo** permite que uma classe tenha diferentes formas de comportamento ao chamar um mesmo método em objetos distintos. Ele pode ser de dois tipos:
 - **Polimorfismo de Sobrecarga (compile-time):** Vários métodos com o mesmo nome, mas assinaturas diferentes.
 - **Polimorfismo de Sobrescrita (runtime):** Uma subclasse redefine um método da superclasse para fornecer sua própria implementação.
-
+ 
+ O polimorfismo é, de fato, a capacidade de objetos de diferentes classes responderem ao mesmo método de maneira específica para cada classe. Isso permite que o mesmo método possa ter comportamentos diferentes dependendo do objeto que o utiliza.
 #### 2️⃣ **Sobrescrita de Métodos**  
 A **sobrescrita** (**override**) ocorre quando uma subclasse redefine um método herdado da superclasse, mantendo a mesma assinatura (nome e parâmetros), mas alterando seu comportamento.
 
